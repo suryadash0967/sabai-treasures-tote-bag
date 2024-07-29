@@ -380,6 +380,10 @@ li img {
     justify-content: center;
     align-items: center;
 }
+.image-icon img{
+    height: 500px;
+    width: 400px;
+}
 
 
 
